@@ -9,7 +9,7 @@ export const Cabecera = () => {
       <img 
         className='logo-perfiles'
         src={logo}/>
-        
+        hola
     </div>
   )
 }
